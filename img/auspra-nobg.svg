@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 120" width="400" height="120">
+  <defs>
+    <style>
+      .text {
+        font-family: 'Montserrat', 'Helvetica Neue', Arial, sans-serif;
+        font-weight: 800;
+        font-size: 68px;
+        fill: #ffffff;
+      }
+      .bracket {
+        font-family: 'Montserrat', 'Helvetica Neue', Arial, sans-serif;
+        font-weight: 800;
+        font-size: 82px;
+        fill: #ffffff;
+      }
+    </style>
+  </defs>
+  <!-- Transparent background -->
+  <g transform="translate(200, 60)">
+    <text x="-165" y="-3" class="bracket" text-anchor="middle" dominant-baseline="middle">[</text>
+    <text x="0" y="3" class="text" text-anchor="middle" dominant-baseline="middle" letter-spacing="2">AUSPRÁ</text>
+    <text x="165" y="-3" class="bracket" text-anchor="middle" dominant-baseline="middle">]</text>
+  </g>
+</svg>
